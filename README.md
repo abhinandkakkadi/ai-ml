@@ -1,1 +1,1 @@
-# ml-maths-basics
+# ai-ml
